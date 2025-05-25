@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQHxOGmxdKeipQ/profile-displayphoto-shrink_800_800/B4DZPKDlqXGUAc-/0/1734261759506?e=1753920000&v=beta&t=rzMJWTFtEeMS_T6Bw1SyUOLOgpVXBKPVsoL6wGWBFiI)
+![MasterHead size:150px](https://media.licdn.com/dms/image/v2/D4D03AQHxOGmxdKeipQ/profile-displayphoto-shrink_800_800/B4DZPKDlqXGUAc-/0/1734261759506?e=1753920000&v=beta&t=rzMJWTFtEeMS_T6Bw1SyUOLOgpVXBKPVsoL6wGWBFiI)
 
 <h3 align="center">A passionate Golang developer from Turkey</h3>
 
